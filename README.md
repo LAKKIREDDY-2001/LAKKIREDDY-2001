@@ -7,7 +7,7 @@ A passionate Software Engineer And Full Stack Developer
 
 👯 I’m looking to collaborate on Full Stack Projects
 
-👨‍💻 All of my projects are available at [https://ritesh-portfolio2.vercel.app/](https://lakkireddy-2001.github.io/LAKKIREDDY-VENKATA-MADHAVA-REDDY-PORTFOLIO/)
+👨‍💻 All of my projects are available at https://lakkireddy-2001.github.io/LAKKIREDDY-VENKATA-MADHAVA-REDDY-PORTFOLIO/
 
 📫 How to reach me madhavalr4321@gmail.com
 
